@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-family: 'Fascinate Inline', cursive;
+    margin-top: auto;
+}
+
+body {
+    background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
+    height: auto;
+    
+    max-width: max-content;
+    margin: auto;
+}
+
+a{
+    color: rgba(167, 54, 133, 0.8) ;
+    text-decoration: rgba(0, 0, 0, 0.8);
+    margin-top: 0.5em;    
+}
+
+h6{
+    margin-top: 0.5em;    
+}
+
+h6 > ul{
+    margin-top: auto; 
+    list-style-type: none;
+}
+
+.border{
+    border: 2px solid rebeccapurple;
+    border-radius: 0.5em;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
+
+#contents{
+    margin-top: 0.5em;
+    height: max-content;    
+    text-align: justify;
+    border-radius: 25px;
+    background-color: rgba(192, 167, 202, 0.8);
+}
+
