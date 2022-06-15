@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-family: 'Fascinate Inline', cursive;
+    margin-top: auto;
+}
+
+body {
+    background: linear-gradient( #b2f397, #c5f3af);
+    height: auto;    
+    max-width: 70%;
+    margin: auto;
+}
+img {
+    display: block;
+    margin:auto;
+    border-radius: 5%;
+    width:auto;
+}
+button{
+    color: rgba(167, 54, 133, 0.8) ;
+    text-decoration: rgba(0, 0, 0, 0.8);
+    margin-top: 0.5em;    
+    position: fixed; /* if you don't want it to scroll, use fixed */
+    left: 2em;
+    top: 50%;
+    width: auto;
+    height: auto;
+    display: block;
+    background: .img  ;    
+}
+
+ul{
+    text-align: auto;
+    padding-block: 0.5em;
+}
+h3, p{
+    padding-left: 2em;
+}
+
+
+/* .border{
+    border: 2px solid rebeccapurple;
+    border-radius: 0.5em;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+} */
+
+#contents{
+    margin-top: 0.5em;
+    margin: auto;
+    height: max-content;    
+    text-align: justify;
+    /* border-radius: 25px;
+    background-color: rgba(192, 167, 202, 0.8); */
+}
+
